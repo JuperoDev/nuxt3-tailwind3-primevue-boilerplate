@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="bg-red-100">
-    This is your boiler plate
+      <Button label="Verify" />
   </div>
   </div>
 </template>
